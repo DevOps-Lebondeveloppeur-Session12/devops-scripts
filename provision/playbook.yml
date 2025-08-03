@@ -6,4 +6,5 @@
     - docker
     - nginx
     - certbot
+    - mongo
    
